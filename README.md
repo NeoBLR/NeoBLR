@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NeoBLR
 - 👀 I’m interested in basketball 🏀, roller skating 🛹, programming 🖥, design 🔥
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning building web applications
+- 💞️ I’m looking to collaborate on cool open source projects
 - 📫 How to reach me [vk](https://vk.com/dauliash "dauliash") [intagram](https://www.instagram.com/_regman/ "_regman") [telega](http://t.me/quicktrick "quicktrick")
 
 <!---
